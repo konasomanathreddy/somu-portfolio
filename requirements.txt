@@ -1,0 +1,2 @@
+# Python backend uses Python 3.11+ standard library modules (http.server, sqlite3, smtplib, urllib, email, json)
+# for instant cold starts and zero native build issues on Vercel Serverless Functions.
